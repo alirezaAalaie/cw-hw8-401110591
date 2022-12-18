@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(135,206,235);
+
+}
+h1{
+    font-family: Dubai Medium;
+    font-weight:bold;
+}
+#text{
+    font-family:Dubai Medium, Arial;
+    font-size: 20px;
+    color: black;
+    text-align: left;
+}
+#footer{
+text-align: center;
+    font-size: 25px;
+}
+h2{
+    font-family:Dubai Medium, Arial;
+    text-align: left;
+    font-size: 20px;
+}
+form{
+    font-family: Dubai Medium;
+    background-color: rgb(135,206,235);
+    color: black;
+  
+    text-align: center;
+}
+p3{
+    font-family:Dubai Medium, Arial;
+    text-align: center;
+    color: black;
+}
+
+
+
+
+
